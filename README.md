@@ -234,4 +234,4 @@ HEAD is now at a88c929 Add and Setup home.hmtl and about.html page
 <!--
 git commit -m "Add Git exercise 2 solution
 
-- Include terminal output for each command in Exercise 2 -->
+- Include terminal output for each command in Exercise 2" -->
